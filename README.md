@@ -5,15 +5,15 @@ This Power BI dashboard provides a comprehensive analysis of the performance of 
 <br>
 
 🔧 Tools & Technologies<br>
-Power BI: For data visualization and dashboard creation
-DAX (Data Analysis Expressions): For calculated columns/measures
+Power BI: For data visualization and dashboard creation<br>
+DAX (Data Analysis Expressions): For calculated columns/measures<br>
 Excel/CSV: For data sourcing and preprocessing (assumed)<br>
 <br>
 
 📌 Key Features<br>
-💡 KPI Highlights
-Total Revenue (Sum of Amount): 438K
-Total Profit: 37K
-Total Quantity Sold: 5615
-Average Order Value (AOV): 121K
+💡 KPI Highlights<br>
+Total Revenue (Sum of Amount): 438K<br>
+Total Profit: 37K<br>
+Total Quantity Sold: 5615<br>
+Average Order Value (AOV): 121K<br>
 
